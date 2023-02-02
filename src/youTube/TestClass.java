@@ -26,6 +26,11 @@ public class TestClass extends base {
 		
   }
 	
+	@Test
+	public void g () {
+		Reporter.log(" hii gm ", true);
+	}
+	
 	
 	@AfterMethod
 	public void CloseTheBrowser() throws InterruptedException {

@@ -6,8 +6,8 @@
       <class name="youTube.TestClass">
         <methods>
           <include name="stepsToLaunch"/>
+          <include name="g"/>
           <include name="CloseTheBrowser"/>
-          <include name="f"/>
         </methods>
       </class> <!-- youTube.TestClass -->
     </classes>
